@@ -25,7 +25,7 @@
 ## About The Project
 
 <p>
-<h3>Demo Video<i>The best way to gain insight into the application's interface, features, and offerings, please view the demo video inside the Demo Video folder of this repository</i></h3>
+<h3>Demo Video</h3> <i>The best way to gain insight into the application's interface, features, and offerings, please view the demo video inside the Demo Video folder of this repository</i>
 </p>
 
 
