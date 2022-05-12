@@ -25,7 +25,7 @@
 ## About The Project
 This was my final year project at Loughborough University. It includes the fitness mobile application that I made as well as the report supporting the project. <br>
 To see the demo video of the application, open the demo folder in this repository <br>
-To see the report that was submitted alongside the source code, open the report folder in this repository <br> <br>
+To see the report that was submitted, open the report folder in this repository <br> <br>
 This project aims to tackle the task of developing a well-rounded fitness and diet tracking application that exploits
 the opportunities within the fitness application industry by emphasising a focus on the wants and needs of the consumer. 
 
