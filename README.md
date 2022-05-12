@@ -23,14 +23,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This project aims to tackle the task of developing a well-rounded fitness and diet tracking application that exploits
+the opportunities within the fitness application industry by emphasising a focus on the wants and needs of the consumer. 
 
 <p>
 <h3>Demo Video</h3> <i>The best way to gain insight into the application's interface, features, and offerings, please view the demo video inside the Demo Video folder of this repository</i>
 </p>
 
 
-This project aims to tackle the task of developing a well-rounded fitness and diet tracking application that exploits
-the opportunities within the fitness application industry by emphasising a focus on the wants and needs of the consumer. <br><br>
+<br><br>
 
 
 
