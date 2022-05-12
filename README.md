@@ -64,9 +64,9 @@ found on the following link: [https://developer.android.com/studio/install](http
             Setup the react-native development environment: https://reactnative.dev/docs/environment-setup -->
             Open terminal and cd to this project's repository on your desktop --> then run the commands:
         <br><br>
-  <center>"npx react-native start"</center>
+  <p align="center">"npx react-native start"
   <br>
-  <center> "npx react-native run-android" </center>
+    "npx react-native run-android" </p>
  </BLOCKQUOTE> </BLOCKQUOTE>
 
 
