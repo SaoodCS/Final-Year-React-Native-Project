@@ -51,22 +51,22 @@ You will need to install the following software in order to run this project.
 ### Installation
 1. Download and install Android Studio. The download link and installation guide can be
 found on the following link: [https://developer.android.com/studio/install](https://developer.android.com/studio/install)
-2. Clone this repository to your local desktop. Copy the following repository URL:
+2. Clone this repository to your local desktop. Copy the following repository URL: <br>
    ```sh
    https://github.com/SaoodCS/Final-Year-React-Native-Project
    ```
-3. Install an AVD emulator to run the app on in Android Studio 
+3. Install an AVD emulator to run the app on in Android Studio: https://developer.android.com/studio/run/emulator
 
 4.<b> To run the app:</b>
-<BLOCKQUOTE><BLOCKQUOTE> a. Run an Emulator in Android Studio --> Drag and drop the app-release.apk file from this repository onto the emulator screen. <br><br>
+<BLOCKQUOTE><BLOCKQUOTE> Run an Emulator in Android Studio --> Drag and drop the app-release.apk file from this repository onto the emulator screen. <br><br>
             <b>OR:</b>
             <br><br>
-            b. Setup the react-native development environment: https://reactnative.dev/docs/environment-setup -->
-            Open terminal and cd to the project repository --> run the commands:
+            Setup the react-native development environment: https://reactnative.dev/docs/environment-setup -->
+            Open terminal and cd to this project's repository on your desktop --> then run the commands:
         <br><br>
-  "npx react-native start" 
+  <center>"npx react-native start"</center>
   <br>
-  "npx react-native run-android"
+  <center> "npx react-native run-android" </center>
  </BLOCKQUOTE> </BLOCKQUOTE>
 
 
@@ -158,10 +158,10 @@ the View Progress button next to the exercise name listed
 
 
 
-* If you would like to use the application without registering, just use the following details to do so:
-<BLOCKQUOTE><BLOCKQUOTE> email:<b>testing@test.com</b>
+* If you would like to use the application without registering, use the following details to do so:
+<BLOCKQUOTE><BLOCKQUOTE> Email: <b>testing@test.com</b>
 <br>
-      Password:<b>test1234</b>
+      Password: <b>test1234</b>
  </BLOCKQUOTE> </BLOCKQUOTE>
 
 
