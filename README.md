@@ -58,12 +58,12 @@ found on the following link: [https://developer.android.com/studio/install](http
 <BLOCKQUOTE><BLOCKQUOTE> a. Run an Emulator in Android Studio --> Drag and drop the app-release.apk file from this repository onto the emulator screen. <br><br>
             <b>OR:</b>
             <br><br>
-            b. Setup the react-native development environment: https://reactnative.dev/docs/environment-setup
+            b. Setup the react-native development environment: https://reactnative.dev/docs/environment-setup -->
             Open terminal and cd to the project repository --> run the commands:
-             ```
-  npx react-native start 
-  npx react-native run-android
-  ```
+        <br>
+  "npx react-native start" 
+  <br>
+  "npx react-native run-android"
  </BLOCKQUOTE> </BLOCKQUOTE>
 
 
