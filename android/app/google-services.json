@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247898827229",
+    "project_id": "strategym-4297c",
+    "storage_bucket": "strategym-4297c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247898827229:android:aa0c4b0270f79ddf002e34",
+        "android_client_info": {
+          "package_name": "com.strategym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247898827229-sum4dt56a3qim2m3sba608nn6nh77ama.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACPHtSwDSMfbzAeQJ_plgUwhHtasqi-xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247898827229-sum4dt56a3qim2m3sba608nn6nh77ama.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

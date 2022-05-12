@@ -1,0 +1,158 @@
+[
+    {
+        "Exercise": "Shoulder Press",
+        "MuscleGroup": "Shoulders",
+        "Type": "Weighted",
+        "Equipment": "Dumbbell"
+    },
+    {
+        "Exercise": "45-Degree Incline Row",
+        "MuscleGroup": "Shoulders",
+        "Type": "Weighted",
+        "Equipment": "Dumbbell"
+    },
+    {
+        "Exercise": "Seated Rear Lateral Raise",
+        "MuscleGroup": "Shoulders",
+        "Type": "Weighted",
+        "Equipment": "Dumbbell"
+    },
+    {
+        "Exercise": "Barbell Bench Press",
+        "MuscleGroup": "Chest",
+        "Type": "Weighted",
+        "Equipment": "Barbell"
+    },
+    {
+        "Exercise": "Pec Deck Machine",
+        "MuscleGroup": "Chest",
+        "Type": "Weighted",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Cable Crossovers",
+        "MuscleGroup": "Chest",
+        "Type": "Weighted",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Hack Sqaut",
+        "MuscleGroup": "Legs",
+        "Type": "Weighted",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Donkey Calf Raises",
+        "MuscleGroup": "Legs",
+        "Type": "Weighted",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Quadruped Hip Extension",
+        "MuscleGroup": "Legs",
+        "Type": "Bodyweight",
+        "Equipment": "Floor Mat"
+    },
+    {
+        "Exercise": "I-Y-T Raises",
+        "MuscleGroup": "Back",
+        "Type": "Weighted",
+        "Equipment": "Dumbbell"
+    },
+    {
+        "Exercise": "Pull-ups",
+        "MuscleGroup": "Back",
+        "Type": "Weighted",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Bent-over Rows",
+        "MuscleGroup": "Back",
+        "Type": "Weighted",
+        "Equipment": "Barbell"
+    },
+    {
+        "Exercise": "Crunch",
+        "MuscleGroup": "Abs",
+        "Type": "Bodyweight",
+        "Equipment": "Floor Mat"
+    },
+    {
+        "Exercise": "Hanging Leg Raises",
+        "MuscleGroup": "Abs",
+        "Type": "Bodyweight",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Side Bends",
+        "MuscleGroup": "Abs",
+        "Type": "Weighted",
+        "Equipment": "Dumbbell"
+    },
+    {
+        "Exercise": "Triangle Push-ups",
+        "MuscleGroup": "Triceps",
+        "Type": "Bodyweight",
+        "Equipment": "Floor Mat"
+    },
+    {
+        "Exercise": "Tricep Kickbacks",
+        "MuscleGroup": "Triceps",
+        "Type": "Weighted",
+        "Equipment": "Dumbbell"
+    },
+    {
+        "Exercise": "Dips",
+        "MuscleGroup": "Triceps",
+        "Type": "Weighted",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Concentration Curls",
+        "MuscleGroup": "Biceps",
+        "Type": "Weighted",
+        "Equipment": "Dumbbell"
+    },
+    {
+        "Exercise": "Cable Curls",
+        "MuscleGroup": "Biceps",
+        "Type": "Weighted",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Chin-ups",
+        "MuscleGroup": "Biceps",
+        "Type": "Weighted",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Treadmill",
+        "MuscleGroup": "Full Body",
+        "Type": "Cardio",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Stationary Bike",
+        "MuscleGroup": "Full Body",
+        "Type": "Cardio",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Rowing Machine",
+        "MuscleGroup": "Full Body",
+        "Type": "Cardio",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Stairmaster",
+        "MuscleGroup": "Full Body",
+        "Type": "Cardio",
+        "Equipment": "Machine"
+    },
+    {
+        "Exercise": "Cross-trainer",
+        "MuscleGroup": "Full Body",
+        "Type": "Cardio",
+        "Equipment": "Machine"
+    }
+]

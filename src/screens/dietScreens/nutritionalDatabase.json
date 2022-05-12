@@ -1,0 +1,254 @@
+[
+    {
+        "Key": "1",
+        "FoodName": "Apple ",
+        "Calories": "52",
+        "Protein": "0.3",
+        "Fats": "0.2",
+        "Carbs": "14",
+        "Grams": "100 "
+    },
+    {
+        "Key": "2",
+        "FoodName": "Pear",
+        "Calories": "57",
+        "Protein": "0.4",
+        "Fats": "0.1",
+        "Carbs": "15",
+        "Grams": "100 "
+    },
+    {
+        "Key": "3",
+        "FoodName": "Oranges",
+        "Calories": "47",
+        "Protein": "0.9",
+        "Fats": "0.1",
+        "Carbs": "12",
+        "Grams": "100 "
+    },
+    {
+        "Key": "4",
+        "FoodName": "Bananas",
+        "Calories": "89",
+        "Protein": "1.1",
+        "Fats": "0..3",
+        "Carbs": "23",
+        "Grams": "100 "
+    },
+    {
+        "Key": "5",
+        "FoodName": "Broccoli",
+        "Calories": "34",
+        "Protein": "2.8",
+        "Fats": "0.4",
+        "Carbs": "6.6",
+        "Grams": "100 "
+    },
+    {
+        "Key": "6",
+        "FoodName": "Carrots",
+        "Calories": "41",
+        "Protein": "0.9",
+        "Fats": "0.2",
+        "Carbs": "9.6",
+        "Grams": "100 "
+    },
+    {
+        "Key": "7",
+        "FoodName": "Peas",
+        "Calories": "81",
+        "Protein": "5.4",
+        "Fats": "0.4",
+        "Carbs": "15",
+        "Grams": "100 "
+    },
+    {
+        "Key": "8",
+        "FoodName": "Cauliflower",
+        "Calories": "25",
+        "Protein": "1.9",
+        "Fats": "0.3",
+        "Carbs": "5",
+        "Grams": "100 "
+    },
+    {
+        "Key": "9",
+        "FoodName": "Bell Peppers",
+        "Calories": "20",
+        "Protein": "0.9",
+        "Fats": "0.2",
+        "Carbs": "4.6",
+        "Grams": "100 "
+    },
+    {
+        "Key": "10",
+        "FoodName": "Chicken Breast",
+        "Calories": "120",
+        "Protein": "23",
+        "Fats": "21",
+        "Carbs": "0",
+        "Grams": "100 "
+    },
+    {
+        "Key": "11",
+        "FoodName": "Fat-Free Ground Turkey ",
+        "Calories": "112",
+        "Protein": "24",
+        "Fats": "2",
+        "Carbs": "0",
+        "Grams": "100 "
+    },
+    {
+        "Key": "12",
+        "FoodName": "Baked Beans",
+        "Calories": "155",
+        "Protein": "5.5",
+        "Fats": "5.2",
+        "Carbs": "22",
+        "Grams": "100 "
+    },
+    {
+        "Key": "13",
+        "FoodName": "White Bread",
+        "Calories": "266",
+        "Protein": "8.9",
+        "Fats": "3.3",
+        "Carbs": "49",
+        "Grams": "100 "
+    },
+    {
+        "Key": "14",
+        "FoodName": "Brown Bread",
+        "Calories": "232",
+        "Protein": "5.4",
+        "Fats": "0.9",
+        "Carbs": "52",
+        "Grams": "100 "
+    },
+    {
+        "Key": "15",
+        "FoodName": "White Rice Cooked",
+        "Calories": "130",
+        "Protein": "2.7",
+        "Fats": "0.3",
+        "Carbs": "28",
+        "Grams": "100 "
+    },
+    {
+        "Key": "16",
+        "FoodName": "Brown Rice Cooked ",
+        "Calories": "112",
+        "Protein": "2.3",
+        "Fats": "0.8",
+        "Carbs": "24",
+        "Grams": "100 "
+    },
+    {
+        "Key": "17",
+        "FoodName": "Sweet Potatoes",
+        "Calories": "86",
+        "Protein": "1.6",
+        "Fats": "0",
+        "Carbs": "20",
+        "Grams": "100 "
+    },
+    {
+        "Key": "18",
+        "FoodName": "Tuna Steaks",
+        "Calories": "125",
+        "Protein": "22",
+        "Fats": "1.3",
+        "Carbs": "0",
+        "Grams": "100 "
+    },
+    {
+        "Key": "19",
+        "FoodName": "Smoked Salmon",
+        "Calories": "117",
+        "Protein": "18",
+        "Fats": "4.3",
+        "Carbs": "0",
+        "Grams": "100 "
+    },
+    {
+        "Key": "20",
+        "FoodName": "Cod Cooked",
+        "Calories": "84",
+        "Protein": "20",
+        "Fats": "0.3",
+        "Carbs": "0",
+        "Grams": "100 "
+    },
+    {
+        "Key": "21",
+        "FoodName": "Apple Juice",
+        "Calories": "46",
+        "Protein": "0",
+        "Fats": "0.1",
+        "Carbs": "11",
+        "Grams": "100 "
+    },
+    {
+        "Key": "22",
+        "FoodName": "Orange Juice",
+        "Calories": "45",
+        "Protein": "0.7",
+        "Fats": "0.2",
+        "Carbs": "10",
+        "Grams": "100 "
+    },
+    {
+        "Key": "23",
+        "FoodName": "Whole Milk",
+        "Calories": "61",
+        "Protein": "3.2",
+        "Fats": "3.3",
+        "Carbs": "4.8",
+        "Grams": "100 "
+    },
+    {
+        "Key": "24",
+        "FoodName": "Skimmed Milk",
+        "Calories": "34",
+        "Protein": "3.4",
+        "Fats": "0.1",
+        "Carbs": "5",
+        "Grams": "100 "
+    },
+    {
+        "Key": "25",
+        "FoodName": "Spinach",
+        "Calories": "23",
+        "Protein": "2.9",
+        "Fats": "0.3",
+        "Carbs": "3.6",
+        "Grams": "100 "
+    },
+    {
+        "Key": "26",
+        "FoodName": "Tomatoes",
+        "Calories": "18",
+        "Protein": "0.9",
+        "Fats": "0.2",
+        "Carbs": "3.9",
+        "Grams": "100 "
+    },
+    {
+        "Key": "27",
+        "FoodName": "Eggs",
+        "Calories": "143",
+        "Protein": "13",
+        "Fats": "9.5",
+        "Carbs": "0.7",
+        "Grams": "100 "
+    },
+    {
+        "Key": "28",
+        "FoodName": "Soy Milk ",
+        "Calories": "33",
+        "Protein": "2.9",
+        "Fats": "1.6",
+        "Carbs": "1.7",
+        "Grams": "100 "
+    }
+]
