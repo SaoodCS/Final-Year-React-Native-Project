@@ -5,6 +5,7 @@ To see the demo video of the application, open the demo folder in this repositor
 <br>
 To see the report that was submitted alongside the source code, open the report folder in this repository
 <br>
+<br>
 To run the application:
 1. Download and install Android Studio https://developer.android.com/studio 
 2. Set up an emulator device in Android Studio https://developer.android.com/studio/run/emulator 
