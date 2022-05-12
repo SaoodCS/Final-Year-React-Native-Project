@@ -23,6 +23,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This was my final year project at Loughborough University. It includes the fitness mobile application that I made as well as the report supporting the project. <br>
+To see the demo video of the application, open the demo folder in this repository <br>
+To see the report that was submitted alongside the source code, open the report folder in this repository <br> <br>
 This project aims to tackle the task of developing a well-rounded fitness and diet tracking application that exploits
 the opportunities within the fitness application industry by emphasising a focus on the wants and needs of the consumer. 
 
@@ -60,7 +63,7 @@ found on the following link: [https://developer.android.com/studio/install](http
             <br><br>
             b. Setup the react-native development environment: https://reactnative.dev/docs/environment-setup -->
             Open terminal and cd to the project repository --> run the commands:
-        <br>
+        <br><br>
   "npx react-native start" 
   <br>
   "npx react-native run-android"
@@ -170,41 +173,6 @@ the View Progress button next to the exercise name listed
 
 Saood - saood-aslam@outlook.com
 
-Project Link: [https://github.com/SaoodCS/Android-App-Ingredilist](https://github.com/SaoodCS/Android-App-Ingredilist)
+Project Link: [https://github.com/SaoodCS/Final-Year-React-Native-Project](https://github.com/SaoodCS/Final-Year-React-Native-Project)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Final-Year-Project-Report
-This was my final year project at Loughborough University. It includes the fitness mobile application that I made as well as the report supporting the project. 
-<br>
-To see the demo video of the application, open the demo folder in this repository
-<br>
-To see the report that was submitted alongside the source code, open the report folder in this repository
-<br>
-<br>
-To run the application:
-1. Download and install Android Studio https://developer.android.com/studio 
-2. Set up an emulator device in Android Studio https://developer.android.com/studio/run/emulator 
-3. Run the emulator device on your desktop
-4. Download this repository onto your desktop
-5. Locate the app-release.apk file in the downloaded repository
-6. Drag and drop the app-release.apk file onto your emulator's screen 
