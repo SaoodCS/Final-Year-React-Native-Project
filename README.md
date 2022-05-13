@@ -61,12 +61,14 @@ found on the following link: [https://developer.android.com/studio/install](http
 <BLOCKQUOTE><BLOCKQUOTE> Run an Emulator in Android Studio --> Drag and drop the app-release.apk file from this repository onto the emulator screen. <br><br>
             <b>OR:</b>
             <br><br>
-            Setup the react-native development environment: https://reactnative.dev/docs/environment-setup -->
-            Open terminal and cd to this project's repository on your desktop --> then run the commands:
+            1. Setup the react-native development environment: https://reactnative.dev/docs/environment-setup (make sure npm and node.js are installed on your machine <br>
+            2. Delete the package-lock.json file and the node_modules folder in the Strategym folder <br>
+            3. Open the terminal and cd to this project's repository on your desktop --> then run the commands: 
         <br><br>
-  <p align="center">"npx react-native start"
+  <p align="center">"npm install"
   <br>
-    "npx react-native run-android" </p>
+    "npx react-native start" <br>
+  "npx react-native run-android"</p>
  </BLOCKQUOTE> </BLOCKQUOTE>
 
 
