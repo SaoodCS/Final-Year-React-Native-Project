@@ -9,7 +9,9 @@
     An application for all your health and fitness needs, packed with features to track your health and fitness progress.
   </p>
     <p align="center">
-    For an overview of the features the application offers, view the demo video.
+    For an overview of the features the application offers, view the <a href="https://youtu.be/xtaM68UxW_U" target="_blank">
+    demo video
+</a>
   </p>
 </p>
 
@@ -18,7 +20,7 @@
 ## About The Project
 
 This was my final year project at Loughborough University. It includes the fitness mobile application that I made as well as the report supporting the project. <br>
-To see the report that was submitted, open the Report + Demo Video folder in this repository <br> <br>
+The report is made available in the _root/Report + Demo_ folder in this repository <br>
 This project's aim was to develop a fitness application that would be able to track a user's fitness and diet progress, as well as provide them with personalised features such as generated workout plans based on their fitness goals.
 
 <p>
